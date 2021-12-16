@@ -8,7 +8,7 @@ Hi, I’m @mgradwohl a Partner Group Engineering Manager working on Windows at M
 - I’m currently learning Hawaiian on DuoLingo
 - 📫@mgradwohl on Twitter (but I'm never there
 - 📫@mgradwohl on Discord (I just got there)
-- 
+
 - Thoughts are my own, not the opinion of MSFT
 
 <!---
