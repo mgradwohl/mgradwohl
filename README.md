@@ -1,16 +1,13 @@
-Hi, I’m @mgradwohl a retired/former Partner Group Engineering Manager working on Windows at Microsoft
+Hi, I’m @mgradwohl a retired/former Partner Group Engineering Manager at Microsoft. I started on Games and Xbox, then worked on the Browser (IE 9-11, Edge v1, Edge v2), then Windows.
 
 - I'm going deep on Linux and VSCode
 - I 3d print. A lot.
 - I’m interested in WinUI 3 in C++/WinRT, Win2D, Windows App SDK, and modern C++
-- I'm writing ModernLife (https://github.com/mgradwohl/ModernLife) a cellular automata app in C++/WinRT, Win2D, Windows App SDK, and Modern C++ and open to collab
-- I'm porting VFI (Visual File Information) that I wrote in the late 90s early 2000s from MFC to WinUI3/Windows App SDK.
+- You should check out my repo TaskSmack - I'm looking for contributors
 
-- 📫@mgradwohl on Twitter (but I'm never there)
 - 📫@mgradwohl on Discord (I just got there)
-- 📫@matt@uppercutwoodworks on Slack [member ID U02T35QA5RP] (I just got there too)
 
-- Thoughts are my own.
+- Thoughts are my own and don't represent any employer because I'm retired now.
 
 <!---
 mgradwohl/mgradwohl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
